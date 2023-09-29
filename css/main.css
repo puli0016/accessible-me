@@ -1,6 +1,6 @@
 body {
-  font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color:rgb(224, 224, 224);
   margin: 0;
   padding: 0;
 }
@@ -11,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  font-family: 'Stick No Bills', Verdana, Geneva, Tahoma, sans-serif
 }
 
 .container {
