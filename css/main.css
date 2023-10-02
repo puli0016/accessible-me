@@ -32,6 +32,12 @@ img {
   padding: 0;
 }
 
+.main-nav ul li a:hover {
+  background-color: rgb(50, 49, 49);
+  color: white;
+  border-radius: 10px;
+}
+
 .main-nav ul li {
   flex: 1;
   text-align: center;
